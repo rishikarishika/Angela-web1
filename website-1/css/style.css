@@ -1,0 +1,16 @@
+body{
+  background-color:#ffe2e2;      <!--choose color from colorhunt-->
+  }
+h1{
+  color: #fc85ae;
+  }
+h3{
+    color: #fc85ae;
+  }
+hr{
+   border-style:none;
+   border-top-style:dotted;
+   border-color: grey;
+   border-width: 3px;
+   width:6%;
+  }
